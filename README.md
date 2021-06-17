@@ -1,4 +1,3 @@
 # NodeJs
 
-For learning
-No commercial
+For learning No commercial
